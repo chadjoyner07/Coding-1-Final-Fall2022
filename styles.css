@@ -1,6 +1,19 @@
 .carousel-inner{
     width: 100%; height: 800px;
 }
-.little-chad{
-    width: 90%; height: 200px;
+.body1{
+    background-color: tan;
+}
+.body2{
+    background-color: grey;
+    color: cornsilk;
+}
+.body3{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
+.banner{
+    font-size: larger;
 }
